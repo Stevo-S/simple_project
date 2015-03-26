@@ -38,3 +38,5 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# use bootstrap-sass for the bootstrap UI framework
+gem 'bootstrap-sass'
